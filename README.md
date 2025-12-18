@@ -135,5 +135,3 @@ Arlene - [Portfolio Contact Form](https://personalportfolio-kappa-gilt.vercel.ap
 Project Link: [https://github.com/Arlene-0929/Personal-portfolio](https://github.com/Arlene-0929/Personal-portfolio)
 
 ---
-
-⭐ Star this repo if you found it helpful!
